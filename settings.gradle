@@ -1,0 +1,9 @@
+rootProject.name = 'Tema4_SpringRemoting'
+include 'ClientFX'
+include 'Domain'
+include 'Domain'
+include 'Persistance'
+include 'ConcursServices'
+include 'ConcursFX'
+include 'ConcursServer'
+
